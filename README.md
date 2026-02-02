@@ -1,4 +1,4 @@
-# Revisiting Calibration for Misclassification Detection in Vision-Language Models
+# Revisiting Calibration for Misclassification Detection in Vision-Language Models (Accepted by ICLR 2026)
 
 
 
